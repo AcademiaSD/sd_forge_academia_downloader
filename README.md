@@ -1,5 +1,5 @@
 ## ⬇️ Academia SD Automatic Downloader (Forge Neo)
-![sd_forge_academia_downloader](./assets/downloader.png)
+![sd_forge_academia_downloader](./assets/downloader.png))
 A smart download manager integrated directly into the WebUI.
 *   **Multi-Link Support:** Paste links from Civitai or HuggingFace repositories.
 *   **Automatic HF Detection:** When pasting a HuggingFace repo link, it automatically displays a dropdown list to choose the exact version (e.g., quantized `.gguf` files).
