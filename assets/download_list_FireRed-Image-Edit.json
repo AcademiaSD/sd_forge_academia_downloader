@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://huggingface.co/cocorang/FireRed-Image-Edit-1.0-FP8_And_BF16/tree/main",
+        "selected_url": "https://huggingface.co/cocorang/FireRed-Image-Edit-1.0-FP8_And_BF16/resolve/main/FireRed-Image-Edit-1.0_fp8_e4m3fn.safetensors",
+        "filename": "FireRed-Image-Edit-1.0_fp8_e4m3fn.safetensors",
+        "filesize": "19.03 GB",
+        "folder": "Stable-diffusion",
+        "subfolder": "qwen-edit"
+    },
+    {
+        "url": "https://huggingface.co/vantagewithai/FireRed-Image-Edit-1.1-GGUF/tree/main",
+        "selected_url": "https://huggingface.co/vantagewithai/FireRed-Image-Edit-1.1-GGUF/resolve/main/FireRed-Image-Edit-1.1-Q5_K_M.gguf",
+        "filename": "FireRed-Image-Edit-1.1-Q5_K_M.gguf",
+        "filesize": "13.85 GB",
+        "folder": "Stable-diffusion",
+        "subfolder": "qwen-edit"
+    },
+    {
+        "url": "https://huggingface.co/giahuy102/qwen-image-edit-2511/tree/main/text_encoders",
+        "selected_url": "https://huggingface.co/giahuy102/qwen-image-edit-2511/resolve/main/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+        "filename": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+        "filesize": "8.74 GB",
+        "folder": "text_encoders",
+        "subfolder": ""
+    },
+    {
+        "url": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1-ComfyUI/tree/main",
+        "selected_url": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1-ComfyUI/resolve/main/qwen_image_vae.safetensors",
+        "filename": "qwen_image_vae.safetensors",
+        "filesize": "242.05 MB",
+        "folder": "vae",
+        "subfolder": ""
+    },
+    {
+        "url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/tree/main",
+        "selected_url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Edit-2509/Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors",
+        "filename": "Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors",
+        "filesize": "810.25 MB",
+        "folder": "Lora",
+        "subfolder": ""
+    }
+]
