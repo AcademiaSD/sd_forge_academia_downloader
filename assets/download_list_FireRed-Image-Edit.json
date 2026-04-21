@@ -24,11 +24,19 @@
         "subfolder": ""
     },
     {
-        "url": "https://huggingface.co/giahuy102/qwen-image-edit-2511/tree/main/text_encoders",
-        "selected_url": "https://huggingface.co/giahuy102/qwen-image-edit-2511/resolve/main/vae/qwen_image_vae.safetensors",
+        "url": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1-ComfyUI/tree/main",
+        "selected_url": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1-ComfyUI/resolve/main/qwen_image_vae.safetensors",
         "filename": "qwen_image_vae.safetensors",
         "filesize": "242.05 MB",
-        "folder": "text_encoders",
+        "folder": "vae",
+        "subfolder": ""
+    },
+    {
+        "url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/tree/main",
+        "selected_url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Edit-2509/Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors",
+        "filename": "Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors",
+        "filesize": "810.25 MB",
+        "folder": "loras",
         "subfolder": ""
     }
 ]
