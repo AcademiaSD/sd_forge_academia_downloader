@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://huggingface.co/Comfy-Org/ERNIE-Image/tree/main/",
+        "selected_url": "https://huggingface.co/Comfy-Org/ERNIE-Image/resolve/main/diffusion_models/ernie-image-turbo.safetensors",
+        "filename": "ernie-image-turbo.safetensors",
+        "filesize": "14.96 GB",
+        "folder": "Stable-diffusion",
+        "subfolder": ""
+    },
+    {
+        "url": "https://huggingface.co/Comfy-Org/ERNIE-Image/tree/main/",
+        "selected_url": "https://huggingface.co/Comfy-Org/ERNIE-Image/resolve/main/text_encoders/ministral-3-3b.safetensors",
+        "filename": "ministral-3-3b.safetensors",
+        "filesize": "7.19 GB",
+        "folder": "text_encoder",
+        "subfolder": ""
+    },
+    {
+        "url": "https://huggingface.co/Comfy-Org/ERNIE-Image/tree/main/",
+        "selected_url": "https://huggingface.co/Comfy-Org/ERNIE-Image/resolve/main/vae/flux2-vae.safetensors",
+        "filename": "vae/flux2-vae.safetensors",
+        "filesize": "-- MB",
+        "folder": "vae",
+        "subfolder": ""
+    }
+]
