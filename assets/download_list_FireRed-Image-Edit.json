@@ -9,9 +9,9 @@
     },
     {
         "url": "https://huggingface.co/vantagewithai/FireRed-Image-Edit-1.1-GGUF/tree/main",
-        "selected_url": "https://huggingface.co/vantagewithai/FireRed-Image-Edit-1.1-GGUF/resolve/main/FireRed-Image-Edit-1.1-Q3_K_M.gguf",
-        "filename": "FireRed-Image-Edit-1.1-Q3_K_M.gguf",
-        "filesize": "9.19 GB",
+        "selected_url": "https://huggingface.co/vantagewithai/FireRed-Image-Edit-1.1-GGUF/resolve/main/FireRed-Image-Edit-1.1-Q5_K_M.gguf",
+        "filename": "FireRed-Image-Edit-1.1-Q5_K_M.gguf",
+        "filesize": "13.85 GB",
         "folder": "Stable-diffusion",
         "subfolder": "qwen-edit"
     },
@@ -24,18 +24,18 @@
         "subfolder": ""
     },
     {
-        "url": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1-ComfyUI/tree/main",
-        "selected_url": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1-ComfyUI/resolve/main/qwen_image_vae.safetensors",
-        "filename": "qwen_image_vae.safetensors",
-        "filesize": "242.05 MB",
+        "url": "https://huggingface.co/giahuy102/qwen-image-edit-2511/tree/main/text_encoders",
+        "selected_url": "https://huggingface.co/giahuy102/qwen-image-edit-2511/resolve/main/vae/qwen_image_vae.safetensors",
+        "filename": "vae/qwen_image_vae.safetensors",
+        "filesize": "-- MB",
         "folder": "vae",
         "subfolder": ""
     },
     {
-        "url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/tree/main",
-        "selected_url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Edit-2509/Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors",
+        "url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/tree/main\n",
+        "selected_url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main\n/Qwen-Image-Edit-2509/Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors",
         "filename": "Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors",
-        "filesize": "810.25 MB",
+        "filesize": "21.0 B",
         "folder": "loras",
         "subfolder": ""
     }
